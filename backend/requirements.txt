@@ -1,0 +1,41 @@
+# Core Framework
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+pydantic==2.5.3
+pydantic-settings==2.1.0
+python-dotenv==1.0.0
+
+# Database
+pymongo==4.6.1
+motor==3.3.2
+
+# AI/LLM
+langchain==0.1.4
+langchain-community==0.0.16
+chromadb==0.4.22
+sentence-transformers==2.2.2
+
+# PDF Processing
+PyPDF2==3.0.1
+pdfplumber==0.10.3
+
+# Translation
+deep-translator==1.11.4
+langdetect==1.0.9
+
+# HTTP Client
+aiohttp==3.9.1
+
+# File Upload
+python-multipart==0.0.6
+aiofiles==23.2.1
+
+# Utilities
+uuid6==2024.1.12
+
+# Testing
+pytest==7.4.4
+pytest-asyncio==0.23.3
+
+# CORS
+starlette==0.35.1

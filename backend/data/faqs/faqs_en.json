@@ -1,0 +1,128 @@
+[
+  {
+    "question": "What is the admission fee for undergraduate programs?",
+    "answer": "The admission fee for undergraduate programs is ₹50,000 per semester. This includes tuition, library access, and laboratory facilities. The fee is subject to annual revision.",
+    "category": "fees",
+    "keywords": ["admission", "fee", "undergraduate", "cost", "tuition", "semester"],
+    "priority": 5
+  },
+  {
+    "question": "What is the admission fee for postgraduate programs?",
+    "answer": "The admission fee for postgraduate programs is ₹75,000 per semester. This includes specialized lab access and research facilities.",
+    "category": "fees",
+    "keywords": ["postgraduate", "fee", "masters", "pg", "semester"],
+    "priority": 5
+  },
+  {
+    "question": "When is the fee payment deadline?",
+    "answer": "The fee payment deadline is the 15th of every month during the semester. Late payments attract a fine of ₹500 per day for the first week, and ₹1000 per day thereafter.",
+    "category": "fees",
+    "keywords": ["deadline", "payment", "due", "date", "fine", "late"],
+    "priority": 4
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept the following payment methods:\n• Online payment (Credit/Debit Card, Net Banking, UPI)\n• Bank challan\n• Demand Draft\n• NEFT/RTGS transfer\nPayment can be made through the student portal or at the Accounts Office.",
+    "category": "fees",
+    "keywords": ["payment", "method", "online", "card", "upi", "bank"],
+    "priority": 4
+  },
+  {
+    "question": "What scholarships are available?",
+    "answer": "We offer several scholarship programs:\n• Merit Scholarship: Up to 100% tuition waiver for top performers\n• Need-based Scholarship: Based on family income\n• Sports Scholarship: For district/state/national level athletes\n• SC/ST Scholarship: Government scholarship for reserved categories\nContact the Scholarship Office for eligibility and application details.",
+    "category": "scholarship",
+    "keywords": ["scholarship", "financial", "aid", "merit", "grant", "waiver"],
+    "priority": 5
+  },
+  {
+    "question": "How to apply for scholarship?",
+    "answer": "To apply for scholarship:\n1. Login to the student portal\n2. Go to 'Scholarship' section\n3. Fill the online application form\n4. Upload required documents (income certificate, marksheet, etc.)\n5. Submit before the deadline\nThe deadline is usually within 30 days of admission.",
+    "category": "scholarship",
+    "keywords": ["apply", "scholarship", "application", "process", "form"],
+    "priority": 4
+  },
+  {
+    "question": "What are the eligibility criteria for admission?",
+    "answer": "Eligibility criteria for undergraduate programs:\n• 10+2 pass with minimum 50% marks (45% for reserved categories)\n• Science stream required for B.Tech/B.Sc programs\n• Valid entrance exam score (JEE/State CET)\n\nFor postgraduate programs:\n• Bachelor's degree with minimum 55% marks\n• Valid GATE/CAT score for technical/management programs",
+    "category": "admission",
+    "keywords": ["eligibility", "criteria", "admission", "requirement", "marks", "percentage"],
+    "priority": 5
+  },
+  {
+    "question": "What documents are required for admission?",
+    "answer": "Documents required for admission:\n• 10th marksheet and certificate\n• 12th marksheet and certificate\n• Transfer certificate\n• Migration certificate (if applicable)\n• Caste certificate (if applicable)\n• Income certificate (for scholarship)\n• 4 passport size photographs\n• Aadhar card copy\n• Entrance exam scorecard",
+    "category": "admission",
+    "keywords": ["documents", "required", "admission", "certificate", "marksheet"],
+    "priority": 5
+  },
+  {
+    "question": "When does the admission process start?",
+    "answer": "The admission process typically starts in May-June for the academic year beginning in August. Key dates:\n• Online application: May 1 - June 30\n• Entrance exams: June-July\n• Counseling: July\n• Classes begin: August 1st week\nPlease check the official website for exact dates.",
+    "category": "admission",
+    "keywords": ["admission", "start", "date", "when", "process", "timeline"],
+    "priority": 4
+  },
+  {
+    "question": "How to check exam results?",
+    "answer": "You can check your exam results through:\n1. Student Portal: Login with your credentials and go to 'Results' section\n2. Official Website: Results are published on the examination page\n3. Notice Board: Physical notice boards on campus\nResults are typically declared within 45 days of the exam.",
+    "category": "exam",
+    "keywords": ["result", "check", "marks", "exam", "grade", "score"],
+    "priority": 4
+  },
+  {
+    "question": "What is the exam schedule?",
+    "answer": "The semester exam schedule:\n• Mid-semester exams: 8th week of semester\n• End-semester exams: 16th-17th week\n• Practical exams: Before theory exams\n• Supplementary exams: 2 weeks after results\nDetailed timetable is published 15 days before exams on the student portal.",
+    "category": "exam",
+    "keywords": ["exam", "schedule", "timetable", "date", "when", "semester"],
+    "priority": 4
+  },
+  {
+    "question": "What is the passing criteria?",
+    "answer": "Passing criteria:\n• Minimum 40% marks in each subject\n• Minimum 75% attendance required\n• Practical/viva must be passed separately\n• CGPA minimum 4.0 required for degree\nSupplementary exams are available for failed subjects.",
+    "category": "exam",
+    "keywords": ["passing", "criteria", "marks", "minimum", "attendance", "cgpa"],
+    "priority": 3
+  },
+  {
+    "question": "How to get a bonafide certificate?",
+    "answer": "To get a bonafide certificate:\n1. Login to student portal\n2. Go to 'Document Request' section\n3. Select 'Bonafide Certificate'\n4. Enter the purpose (visa, bank, etc.)\n5. Submit request\nThe certificate is usually ready within 2-3 working days. Collection from the Administrative Office.",
+    "category": "documents",
+    "keywords": ["bonafide", "certificate", "document", "request", "letter"],
+    "priority": 3
+  },
+  {
+    "question": "How to request transcripts?",
+    "answer": "To request official transcripts:\n1. Submit application at the Examination Office\n2. Pay the transcript fee (₹500 per copy)\n3. Processing time: 7-10 working days\n4. For urgent requests, pay ₹1000 for 3-day processing\nTranscripts can be sent directly to universities on request.",
+    "category": "documents",
+    "keywords": ["transcript", "marksheet", "document", "request"],
+    "priority": 3
+  },
+  {
+    "question": "What are the library timings?",
+    "answer": "Library timings:\n• Monday to Friday: 8:00 AM - 10:00 PM\n• Saturday: 9:00 AM - 5:00 PM\n• Sunday: Closed (except during exams)\n• Exam period: Extended hours till 12:00 AM\nDigital library is accessible 24/7 through the student portal.",
+    "category": "library",
+    "keywords": ["library", "timing", "hours", "open", "access"],
+    "priority": 2
+  },
+  {
+    "question": "What is the hostel accommodation fee?",
+    "answer": "Hostel accommodation fees:\n• Single occupancy: ₹80,000 per year\n• Double occupancy: ₹50,000 per year\n• Triple occupancy: ₹35,000 per year\nThis includes accommodation, mess (food), and basic amenities. AC rooms available at additional charges.",
+    "category": "hostel",
+    "keywords": ["hostel", "accommodation", "room", "fee", "stay", "mess"],
+    "priority": 3
+  },
+  {
+    "question": "How to contact the college?",
+    "answer": "Contact Information:\n• Email: info@college.edu\n• Phone: +91-XXXX-XXXXXX\n• Address: [College Address]\n\nSpecific departments:\n• Admission Office: admission@college.edu\n• Exam Office: exam@college.edu\n• Scholarship Office: scholarship@college.edu",
+    "category": "contact",
+    "keywords": ["contact", "phone", "email", "address", "office"],
+    "priority": 2
+  },
+  {
+    "question": "What are the office hours?",
+    "answer": "Office Hours:\n• Administrative Office: 9:00 AM - 5:00 PM (Mon-Fri)\n• Accounts Office: 10:00 AM - 4:00 PM (Mon-Fri)\n• Dean's Office: By appointment only\n• Student Welfare: 10:00 AM - 5:00 PM (Mon-Sat)\nSaturday: Limited services available",
+    "category": "contact",
+    "keywords": ["office", "hours", "timing", "open", "working"],
+    "priority": 2
+  }
+]
