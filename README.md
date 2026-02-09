@@ -1,4 +1,4 @@
-# PROJECT EXPLANATION: LANGUAGE AGNOSTIC CHATBOT
+# LANGUAGE AGNOSTIC CHATBOT
 ================================================
 
 ## PROJECT OVERVIEW
